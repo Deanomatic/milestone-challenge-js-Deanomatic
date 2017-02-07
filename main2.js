@@ -2,7 +2,7 @@
 
 var button = document.getElementById("enter");
 var height;
-var type;
+var type;//this is a small change.
 var blank;
 var treeTime; 
 
